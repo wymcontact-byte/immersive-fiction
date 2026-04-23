@@ -12,6 +12,7 @@ export default function LandingPage() { return ( <div className="min-h-screen bg
       Every story begins FREE.
     </p>
 
+      
     <a
       href="https://adamwym.gumroad.com"
       className="inline-block bg-white text-black px-8 py-4 rounded-2xl font-semibold text-lg hover:scale-105 transition"
